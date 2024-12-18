@@ -1,1 +1,19 @@
-# Curso EBAC Frontend\n\nEste repositório foi criado como parte dos exercícios do curso de **Frontend** da **EBAC**. \n\n## Estrutura do Repositório\n\n- **Branch main**: Configurações iniciais e principal branch do projeto.\n- **Branch exercicio_git**: Contém o arquivo  com meu nome completo, como solicitado no exercício.\n\n## Autor\n\n- **Nome**: Ednilson Gonçalves Gomes  \n- **GitHub**: [edgomes-ti](https://github.com/edgomes-ti)\n\n## Como Contribuir\n\n1. Clone o repositório:\n   \n2. Crie uma branch para suas alterações:\n   \n3. Faça suas alterações e envie um Pull Request.
+# Curso EBAC Frontend
+
+Este repositório contém os exercícios e atividades do curso de **Frontend** da EBAC.
+
+## Branch Atual
+- `exercicio_git`: Branch para o exercício de Git.
+
+## Como utilizar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/edgomes-ti/curso_ebac_frontend-1.git
+   ```
+2. Acesse a branch do exercício:
+   ```bash
+   git checkout exercicio_git
+   ```
+
+## Autor
+Ednilson Gonçalves Gomes
